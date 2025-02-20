@@ -8,6 +8,7 @@ on:
         description: |
           输入 软路由型号 可选值如下：
         options:
+          - qemu
           - ariaboard_photonicat
           - armsom_sige3
           - armsom_sige7
